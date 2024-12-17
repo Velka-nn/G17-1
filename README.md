@@ -1,5 +1,5 @@
 # G17-1 Portfolio test
-"!DOCTYPE html"
+"!DOCTYPE html" -> a supprimer
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
