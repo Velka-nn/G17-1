@@ -1,5 +1,5 @@
-# G17-1 Veklann test
-<!DOCTYPE html>
+# G17-1 Portfolio test
+"!DOCTYPE html"
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
